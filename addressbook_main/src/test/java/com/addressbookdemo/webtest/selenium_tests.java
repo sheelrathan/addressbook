@@ -29,6 +29,7 @@ public class selenium_tests {
 	    //driver.get("https://saucelabs.com/test/guinea-pig");
 	    //System.out.println("title of page is: " + driver.getTitle());
 	System.out.println("title of page is: Some Demo Page"); 
+		System.out.println("Testing automatic pipeline by setting to SCM pool every mintune, so made changes here to verify.."); 
 	    //driver.quit();
 
 	}
